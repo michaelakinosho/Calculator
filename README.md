@@ -9,4 +9,12 @@ Building Calculator using Python based on the Windows version
    <img src="standardcalculatorpage.jpg" alt="User interface for Standard Calculator" width="400" height="300">
   </td>
  </tr>
+ <tr>
+  <td>
+   <img src="scientificcalculatorpage.jpg" alt="User interface for Scientific Calculator" width="400" height="300">
+  </td>
+  <td>
+   <img src="LoanRepaymentProgram.jpg" alt="Loan Repayment Calculation Program" width="400" height="300">
+  </td>
+ </tr>
 </table>
